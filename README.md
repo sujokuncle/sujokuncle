@@ -95,13 +95,21 @@ Targeting zero-downtime ops in fog, rain, and low-visibility conditions.
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/heysujalhere">
-  <img src="https://img.shields.io/badge/LinkedIn-heysujalhere-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/sujok/">
-  <img src="https://img.shields.io/badge/LeetCode-sujok-FFA116?style=flat&logo=leetcode&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20freelance-Edge%20AI%20·%20Embedded%20ML-B8336A?style=flat"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/heysujalhere">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111116?style=for-the-badge&logo=linkedin&logoColor=B8336A"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sujok/">
+    <img src="https://img.shields.io/badge/LeetCode-sujok-111116?style=for-the-badge&logo=leetcode&logoColor=B8336A"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sujalmuluk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sujalmuluk%40gmail.com-111116?style=for-the-badge&logo=gmail&logoColor=B8336A"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to%20Freelance-Edge%20AI%20·%20Embedded%20ML-B8336A?style=for-the-badge"/>
+</p>
 
