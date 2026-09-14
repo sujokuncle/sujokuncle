@@ -43,7 +43,7 @@ Built an offline Edge AI system for real-time ISL recognition, combining MediaPi
 
 <strong>🚗 JetRacer Autonomous Nav   <code>IN DEVELOPMENT</code></strong>
 
-Building an autonomous navigation platform around the Waveshare JetRacer, combining LiDAR and SLAM for real-time mapping, localization, and autonomous movement.
+Building an autonomous robotics platform around the Waveshare JetRacer, integrating LiDAR, SLAM, and onboard sensing for real-time mapping, localization, path planning, and autonomous obstacle-aware navigation.
 
 <img src="jetracer_autonomous_nav_HD.gif" width="100%" alt="JetRacer autonomous navigation animation">
 
