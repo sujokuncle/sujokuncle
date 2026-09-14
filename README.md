@@ -22,7 +22,7 @@ The constraint is the feature.
 
 <br/>
 
-##Projects
+## Projects
 
 <table>
 <tr>
@@ -104,10 +104,4 @@ Targeting zero-downtime ops in fog, rain, and low-visibility conditions.
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20freelance-Edge%20AI%20·%20Embedded%20ML-B8336A?style=flat"/>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3000&pause=1000&color=374151&center=true&vCenter=true&width=520&lines=→+edge+ai+·+embedded+ml+·+robotics+prototyping+·+open+to+collabs" alt="footer"/>
-</div>
 
