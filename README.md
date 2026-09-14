@@ -16,7 +16,7 @@
 
 <br/>
 
-I build systems that run intelligence at the edge — not in the cloud.
+Building intelligent systems where AI meets the physical world.
 From <span style="color:#B8336A">sign language recognition</span> at 8ms on a Pi, to <span style="color:#B8336A">autonomous navigation</span> through fog and rain.
 The constraint is the feature.
 
@@ -28,11 +28,9 @@ The constraint is the feature.
 <tr>
 <td width="50%" valign="top">
 
-<strong>🤟 ISL Recognition · Edge AI</strong>
+**🤟 ISL Recognition · Edge AI**
 
-Real-time offline Indian Sign Language recognition.
-26 gestures · 8ms inference · 200KB INT8 TFLite on Raspberry Pi 4.
-Arduino Nano 33 BLE Sense IMU + BLE sensor fusion for J/Z disambiguation.
+Built an offline Edge AI system for real-time ISL recognition, combining MediaPipe hand landmarks with a lightweight INT8 TFLite model on Raspberry Pi 4 and Arduino IMU + BLE sensor fusion for dynamic gesture recognition.
 
 <img src="isl_hand_landmarks_HD.gif" width="100%" alt="ISL hand landmark recognition animation">
 
