@@ -1,15 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  HOW TO USE THIS README                                  ║
-  ║  1. Create repo named exactly your GitHub username       ║
-  ║  2. Put README.md + banner.gif in the root               ║
-  ║  3. Fill in YOUR_GITHUB_USERNAME below (3 places)        ║
-  ║  4. LeetCode / LinkedIn links are already filled in      ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<!-- ANIMATED HD PROFILE BANNER — keep banner.gif in the repository root -->
-
 <p align="center">
   <img src="banner.gif" width="100%" alt="Sujal AI Edge Embedded profile banner">
 </p>
