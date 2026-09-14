@@ -43,8 +43,7 @@ Built an offline Edge AI system for real-time ISL recognition, combining MediaPi
 
 <strong>🚗 JetRacer Autonomous Nav   <code>IN DEVELOPMENT</code></strong>
 
-SLAM + LiDAR based navigation for confined spaces and heavy earth movers.
-Targeting zero-downtime ops in fog, rain, and low-visibility conditions.
+Building an autonomous navigation platform around the Waveshare JetRacer, combining LiDAR and SLAM for real-time mapping, localization, and autonomous movement.
 
 <img src="jetracer_autonomous_nav_HD.gif" width="100%" alt="JetRacer autonomous navigation animation">
 
